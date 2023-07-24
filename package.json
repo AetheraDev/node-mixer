@@ -1,0 +1,27 @@
+{
+  "name": "node-mixer",
+  "version": "0.0.1",
+  "description": "Run multiple files at once",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AetheraDev/node-mixer.git"
+  },
+  "keywords": [
+    "node-mixer",
+    "mixer",
+    "multiple-file"
+  ],
+  "author": "AetheraDev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AetheraDev/node-mixer/issues"
+  },
+  "homepage": "https://github.com/AetheraDev/node-mixer#readme"
+}
